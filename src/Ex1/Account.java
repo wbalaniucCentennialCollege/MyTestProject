@@ -1,4 +1,4 @@
-// Account class containing account name and subsequent getter and setter.
+package Ex1;// Ex1.Account class containing account name and subsequent getter and setter.
 
 public class Account {
     public String name;
